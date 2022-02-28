@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renowned-virat
 - 👀 I’m interested in solving real problems through my code.
-- 🌱 I’m currently learning c and python programing
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate in python and c programs
 - 📫 reach me at 945skumar@gmail.com
 
